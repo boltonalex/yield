@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@plugin "@tailwindcss/typography";
+@plugin "@iconify/tailwind4";
+
+@theme {
+  --breakpoint-sm: 65ch;
+  --breakpoint-md: 65ch;
+  --breakpoint-lg: 65ch;
+  --breakpoint-xl: 65ch;
+  --breakpoint-2xl: 65ch;
+}
